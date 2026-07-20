@@ -5,7 +5,7 @@
 * **Student ID:** STU240452  
 
 ## GitHub Repository
-* **Repository URL:** 
+* **Repository URL:** https://github.com/ruhamah-k03/IS305-DWU240452.git
 
 ---
 
