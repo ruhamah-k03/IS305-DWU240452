@@ -11,7 +11,7 @@ const studentBooking = new MealBooking(
     "2026-07-21",
     "Dinner",
     2,
-    "No seafood"
+    "No Globe"
 );
 
 // 3. Call the object's methods & 5. Display the booking summary and calculated total
