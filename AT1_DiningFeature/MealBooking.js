@@ -109,4 +109,19 @@ class MealBooking {
         }
 
         return this.#quantity * mealPrice;
-    }  }
+    }  
+
+     // 6. Create a method named getSummary()
+    getSummary() {
+        return `Booking Summary:
+- Student: ${this.#studentName} (${this.#studentId})
+- Meal: ${this.#mealType} on ${this.#mealDate}
+- Quantity: ${this.#quantity}
+- Dietary Note: ${this.#dietaryNote || "None"}
+- Status: ${this.#bookingStatus}
+- Total Cost: K${this.calculateTotal().toFixed(2)}`;
+    }
+}
+
+// 7. Export the class so it can be used in another file
+module.exports = MealBooking;
