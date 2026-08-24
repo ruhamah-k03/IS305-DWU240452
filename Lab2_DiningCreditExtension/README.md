@@ -22,3 +22,5 @@ node DiningApp.js
 - Calculates meal costs.
 - Displays booking history and combined cost.
 - Demonstrates shared object references by updating a student's name after bookings are created.
+
+  #### I used ChatGPT to fix my code.
