@@ -1,4 +1,4 @@
-# DWU Dining Meal Booking - Lab 2
+# DWU Dining Meal Booking - Lab 3
 
 Name: Ruhamah Kairat
 
