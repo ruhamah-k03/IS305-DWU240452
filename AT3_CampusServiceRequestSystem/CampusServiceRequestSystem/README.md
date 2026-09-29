@@ -4,7 +4,7 @@
 - Student Name: RUHAMAH KAIRAT
 - Student ID: 240452
 - Project Title: Campus Service Request Management System
-- GitHub Repository URL: REPLACE WITH YOUR GITHUB URL
+- GitHub Repository URL: https://github.com/ruhamah-k03/IS305-DWU240452.git
 
 ## Description
 This Node.js console application manages campus service requests for ICT Support, Facilities Maintenance, Cleaning and Sanitation, and General Campus Service.
