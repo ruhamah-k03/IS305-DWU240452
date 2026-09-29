@@ -1,0 +1,11 @@
+{
+  "name": "campus-service-request-system",
+  "version": "1.0.0",
+  "description": "Campus Service Request Management System - AT3 Major Project",
+  "type": "module",
+  "main": "src/CampusServiceApp.js",
+  "scripts": {
+    "start": "node src/CampusServiceApp.js",
+    "test": "node --test"
+  }
+}
