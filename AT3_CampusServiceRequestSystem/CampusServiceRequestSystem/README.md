@@ -1,8 +1,8 @@
 # Campus Service Request Management System
 
 ## Student Details
-- Student Name: REPLACE WITH YOUR NAME
-- Student ID: REPLACE WITH YOUR STUDENT ID
+- Student Name: RUHAMAH KAIRAT
+- Student ID: 240452
 - Project Title: Campus Service Request Management System
 - GitHub Repository URL: REPLACE WITH YOUR GITHUB URL
 
@@ -132,4 +132,4 @@ Cancelled is a final status.
 - Add richer report output.
 
 ## AI Use Declaration
-Replace this section with the approved AI-use declaration required by your course. Keep the declaration truthful and consistent with your university's rules.
+Used ChatGPT to correct my codes.
